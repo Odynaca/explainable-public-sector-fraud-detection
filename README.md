@@ -122,6 +122,7 @@ You may use, share, or adapt the work **with proper attribution**.
 **Author:** Odinaka  
 **Location:** Birmingham, United Kingdom  
 **LinkedIn:** linkedin.com/in/odinaka-asidanya  
+**email:** oasidanya@yahoo.com
 
 If you are a supervisor or researcher interested in this work, feel free to reach out.
 
